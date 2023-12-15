@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HODINA
 {
-    internal class Bambus
+    internal class Organizmus
     {
     }
 }
