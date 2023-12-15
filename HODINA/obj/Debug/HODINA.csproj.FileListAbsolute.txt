@@ -1,0 +1,8 @@
+C:\Users\0a_odraska_a\source\repos\HODINA\HODINA\bin\Debug\HODINA.exe.config
+C:\Users\0a_odraska_a\source\repos\HODINA\HODINA\bin\Debug\HODINA.exe
+C:\Users\0a_odraska_a\source\repos\HODINA\HODINA\bin\Debug\HODINA.pdb
+C:\Users\0a_odraska_a\source\repos\HODINA\HODINA\obj\Debug\HODINA.csproj.AssemblyReference.cache
+C:\Users\0a_odraska_a\source\repos\HODINA\HODINA\obj\Debug\HODINA.csproj.SuggestedBindingRedirects.cache
+C:\Users\0a_odraska_a\source\repos\HODINA\HODINA\obj\Debug\HODINA.csproj.CoreCompileInputs.cache
+C:\Users\0a_odraska_a\source\repos\HODINA\HODINA\obj\Debug\HODINA.exe
+C:\Users\0a_odraska_a\source\repos\HODINA\HODINA\obj\Debug\HODINA.pdb
